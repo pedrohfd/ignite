@@ -33,7 +33,7 @@ export function Post() {
         </p>
 
         <p>
-          <a>#novoprojeto #nlw #rocketseat</a>
+          <a>#novoprojeto</a> <a>#nlw</a> <a>#rocketseat</a>
         </p>
       </div>
     </article>
